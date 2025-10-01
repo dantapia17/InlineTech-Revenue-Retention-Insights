@@ -1,5 +1,5 @@
 # InlineTech: From Pandemic Spike to Sustainable Growth  
-*(Built with synthetic e-commerce orders data for portfolio demonstration)*  
+*(Built with synthetic data to protect confidentiality, modeled on real work at Deloitte)*  
 
 ---
 
