@@ -4,7 +4,7 @@
 ---
 
 ## Executive Summary  
-At InlineTech, I conducted a **revenue and retention analysis** to understand why growth slowed after a pandemic-driven spike.  
+For InlineTech, a global e-commerce company, I conducted a **revenue and retention analysis** to understand why growth slowed after a pandemic-driven spike.  
 To ensure rigor, I built an end-to-end workflow across **Excel, SQL, and Power BI**:
 
 - **Excel** → cleaned messy exports, validated KPIs, and stress-tested logic.  
