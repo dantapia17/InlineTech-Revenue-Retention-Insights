@@ -91,7 +91,10 @@ By quantifying InlineTech’s **post-pandemic plateau**, this project demonstrat
 ---
 
 ## Dashboard  
-The completed interactive dashboard was built in Power BI with filters for **Year, Product, Region, and Loyalty Program.**  
+The completed interactive dashboard was built in Power BI.  
+You can download and explore it locally using **Power BI Desktop**:  
+
+📂 [Download InlineTech Power BI Dashboard (.pbix)](./dashboard/InlineTech_Dashboard.pbix) 
 <img width="572" height="320" alt="image" src="https://github.com/user-attachments/assets/c9058d7b-c6c7-408c-9a3b-4958051f5d0d" />
 
 ---
