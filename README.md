@@ -92,6 +92,6 @@ By quantifying InlineTech’s **post-pandemic plateau**, this project demonstrat
 
 ## Dashboard  
 The completed interactive dashboard was built in Power BI with filters for **Year, Product, Region, and Loyalty Program.**  
-<img width="520" height="314" alt="ERD (2)" src="https://github.com/user-attachments/assets/e68bc579-8a68-4095-9f35-81ba6f348729" />
+<img width="572" height="320" alt="image" src="https://github.com/user-attachments/assets/e7cd7e08-1d6b-4936-b4cd-645da30c9d95" />
 
 ---
