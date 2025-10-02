@@ -123,7 +123,7 @@ By **expanding loyalty, bundling accessories, and diversifying acquisition chann
 ---
 
 ## Impact  
-As part of Deloitte’s Advisory practice, I helped InlineTech reframe its problem: growth wasn’t slowing due to the market alone — it was **fragile because of retention gaps and over-concentration**.  
+As part of Deloitte’s Advisory practice, I helped InlineTech reframe its problem: growth wasn’t slowing due to the market alone , it was **fragile because of retention gaps and over-concentration**.  
 
 - Surfaced how **Direct channel dependence + laptop/monitor reliance** left revenue exposed.  
 - Showed how **loyalty and accessories** could stabilize AOV and increase retention.  
