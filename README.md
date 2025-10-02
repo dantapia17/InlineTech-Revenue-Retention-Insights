@@ -45,12 +45,36 @@ The dataset consisted of four entities: **orders, customers, order_status, and g
 
 ## Insights Summary  
 
-- **Revenue Volatility** → Revenue surged in 2020–21, then plateaued in 2022, signaling over-reliance on acquisition campaigns.  
-- **AOV Instability** → Big-ticket products (laptops/monitors) drove spikes, but lack of accessories weakened sustainable growth.  
-- **Product Mix Risk** → Laptops + Monitors = ~95% of sales, leaving the portfolio overly concentrated.  
-- **Loyalty Program Impact** → Loyalty customers repeated faster (1.6 months vs 2.3 months) but made up <40% of revenue.  
-- **Channel Concentration** → 83% of revenue came from Direct, with minimal contribution from Email, Affiliate, or Social.  
-- **Refund Coverage** → Monitor refunds were high (~18–22%), but coverage gaps after 2021 limited visibility.  
+The analysis surfaced **systemic risks in InlineTech’s growth model**, showing that the post-pandemic slowdown was not random but rooted in product, customer, and channel dynamics:  
+
+### 1. Pandemic Spike → Unsustainable Growth  
+- Revenue surged in **2020–21** due to laptop/monitor demand but **plateaued in 2022** once acquisition-driven campaigns lost steam.  
+- The trend confirms growth was **spike-driven, not retention-driven**.  
+
+### 2. Average Order Value (AOV) Volatility  
+- **High AOV ($303)** was inflated by large purchases (laptops, monitors).  
+- The lack of accessories/low-ticket add-ons made AOV **unstable across months/years**, exposing InlineTech to demand swings in big-ticket items.  
+
+### 3. Product Mix Concentration = Fragile Portfolio  
+- **~95% of revenue** came from **Laptops + Monitors**, leaving minimal diversification.  
+- This dependence amplified refund shocks (monitors with **18–22% return rates**) and suppressed repeat buying opportunities.  
+
+### 4. Loyalty Program Underutilized  
+- **Loyalty customers repeated faster (1.6 months vs 2.3 months)**, proving the program works.  
+- Yet, they accounted for **<40% of revenue**, leaving retention gains largely untapped.  
+
+### 5. Over-Reliance on Direct Channel  
+- **83% of revenue** flowed through **Direct acquisition**, with limited lift from Email, Affiliate, or Social.  
+- This over-concentration made InlineTech’s funnel vulnerable: when Direct slowed, **overall revenue stalled**.  
+
+### 6. Refund Coverage Gaps = Blind Spots  
+- **Monitor refunds** were consistently high but **post-2021 refund tracking fell below 95% coverage**.  
+- Missing return reasons limited the ability to act on QA/product improvements, weakening future resilience.  
+
+---
+
+**Key Takeaway:**  
+InlineTech’s slowdown wasn’t just market-driven — it reflected **structural weaknesses**: too much dependence on Direct, a fragile product mix, and under-leveraged loyalty. By **expanding loyalty, rebalancing channels, and bundling accessories**, InlineTech could convert pandemic-era spikes into **repeatable, sustainable growth**.  
 
 ---
 
