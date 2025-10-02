@@ -15,7 +15,7 @@ The investigation revealed that InlineTech’s slowdown was not random, it stemm
 
 - **95% of revenue concentrated in laptops/monitors**, creating fragility.  
 - **Repeat purchasing was low**, with loyalty underutilized (<40% of revenue).  
-- **83% of revenue from Direct acquisition**, leaving growth overly reliant on a single channel.  
+- **83% of revenue from Direct marketing acquisition**, leaving growth overly reliant on a single channel.  
 
 To surface these drivers, I built an end-to-end workflow across **Excel, SQL, and Power BI**:  
 
@@ -74,10 +74,10 @@ From a consulting perspective, the analysis revealed **systemic risks in InlineT
 - Loyalty members repeated faster (1.6 vs 2.3 months).  
 - Yet loyalty revenue share was **<40%**, leaving upside untapped.  
 
-### 5. Over-Reliance on Direct Channel  
-- **83% of revenue flowed through Direct**.  
+### 5. Over-Reliance on Direct Marketing Channel  
+- **83% of revenue flowed through Direct marketing**.  
 - Minimal lift from Email, Affiliate, or Social.  
-- When Direct slowed, total revenue collapsed.  
+- When Direct marketing slowed, total revenue collapsed.  
 
 ### 6. Refund Blind Spots  
 - Post-2021, refund tracking fell below 95% coverage.  
@@ -106,7 +106,7 @@ By **expanding loyalty, bundling accessories, and diversifying acquisition chann
    - Offer tiered perks to accelerate adoption and repeat sales.  
 
 3. **Diversify Marketing Channels**  
-   - Reduce reliance on Direct by scaling Email and Affiliate campaigns.  
+   - Reduce reliance on Direct marketing by scaling Email and Affiliate campaigns.  
    - Target weak months (Feb/Oct globally, Apr/Jul LATAM) with promotions.  
 
 4. **Strengthen Refund Tracking**  
@@ -125,7 +125,7 @@ By **expanding loyalty, bundling accessories, and diversifying acquisition chann
 ## Impact  
 As part of Deloitte’s Advisory practice, I helped InlineTech reframe its problem: growth wasn’t slowing due to the market alone , it was **fragile because of retention gaps and over-concentration**.  
 
-- Surfaced how **Direct channel dependence + laptop/monitor reliance** left revenue exposed.  
+- Surfaced how **Direct marketing channel dependence + laptop/monitor reliance** left revenue exposed.  
 - Showed how **loyalty and accessories** could stabilize AOV and increase retention.  
 - Delivered leadership a roadmap to pivot from **short-term acquisition gains** to **long-term sustainable growth**.  
 
