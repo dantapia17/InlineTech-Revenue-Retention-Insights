@@ -63,7 +63,7 @@ The analysis surfaced **systemic risks in InlineTech’s growth model**, showing
 - **Loyalty customers repeated faster (1.6 months vs 2.3 months)**, proving the program works.  
 - Yet, they accounted for **<40% of revenue**, leaving retention gains largely untapped.  
 
-### 5. Over-Reliance on Direct Channel  
+### 5. Over-Reliance on Direct Marketing Channel 
 - **83% of revenue** flowed through **Direct acquisition**, with limited lift from Email, Affiliate, or Social.  
 - This over-concentration made InlineTech’s funnel vulnerable: when Direct slowed, **overall revenue stalled**.  
 
@@ -74,7 +74,7 @@ The analysis surfaced **systemic risks in InlineTech’s growth model**, showing
 ---
 
 **Key Takeaway:**  
-InlineTech’s slowdown wasn’t just market-driven — it reflected **structural weaknesses**: too much dependence on Direct, a fragile product mix, and under-leveraged loyalty. By **expanding loyalty, rebalancing channels, and bundling accessories**, InlineTech could convert pandemic-era spikes into **repeatable, sustainable growth**.  
+InlineTech’s slowdown wasn’t just market-driven, it reflected **structural weaknesses**: too much dependence on direct marketing channel, a fragile product mix, and under-leveraged loyalty. By **expanding loyalty, rebalancing marketing channels, and bundling accessories**, InlineTech could convert pandemic-era spikes into **repeatable, sustainable growth**.  
 
 ---
 
@@ -89,7 +89,7 @@ InlineTech’s slowdown wasn’t just market-driven — it reflected **structura
    - Provide basic perks to increase participation and drive retention.  
 
 3. **Diversify Marketing Channels**  
-   - Reduce dependence on Direct by investing in Email and Affiliate campaigns.  
+   - Reduce dependence on Direct by investing in Email and Affiliate marketing campaigns.  
    - Launch targeted campaigns in weak months (Feb/Oct globally; Apr/Jul in LATAM).  
 
 4. **Strengthen Refund Tracking**  
@@ -108,7 +108,7 @@ InlineTech’s slowdown wasn’t just market-driven — it reflected **structura
 ## Impact  
 By quantifying InlineTech’s **post-pandemic plateau**, this project demonstrated that growth was not simply about acquisition, but retention:  
 
-- Revenue concentration in **Direct channel** and **laptops/monitors** left the business fragile.  
+- Revenue concentration in **Direct marketing channel** and **laptops/monitors** left the business fragile.  
 - Under-utilized **loyalty programs** and weak accessory sales limited repeat revenue.  
 - Addressing these drivers could improve **repeat purchase rate** and stabilize **AOV**, shifting InlineTech from one-time spikes to sustainable growth.  
 
