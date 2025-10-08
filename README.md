@@ -6,7 +6,7 @@
 ## Business Problem  
 InlineTech, a global e-commerce company, saw explosive **pandemic-driven growth in 2020–21**, fueled by laptops and monitors. But by 2022, **growth stalled**, revenue plateaued, repeat purchases lagged, and leadership lacked clarity on whether the slowdown was a market correction or a deeper structural issue.  
 
-As an **Advisory Analyst at Deloitte**, I conducted a **revenue and retention analysis** to pinpoint the root causes of the slowdown and advise leadership on how to shift from **short-term acquisition spikes** to **sustainable retention-driven growth**.  
+As an **Advisory Analyst at Deloitte**, I conducted a **product revenue and retention analysis** to pinpoint the root causes of the slowdown and advise leadership on how to shift from **short-term acquisition spikes** to **sustainable retention-driven growth**.  
 
 ---
 
