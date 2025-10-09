@@ -1,4 +1,4 @@
-# InlineTech: From Pandemic Spike to Sustainable Growth  
+# Revenue: From Pandemic Spike to Sustainable Growth  
 *(Built with synthetic data to protect confidentiality, modeled on real work at Deloitte)*  
 
 ---
